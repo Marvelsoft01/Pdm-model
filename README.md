@@ -7,12 +7,10 @@ Features:
 
 
 Installation:
-Clone the repository and install dependencies:
 
-
-git clone https://github.com/Marvelsoft01/Pdm-model.git
-cd pdm-rul
-pip install -r requirements.txt
+1. git clone https://github.com/Marvelsoft01/Pdm-model.git
+2. cd pdm-rul
+3. pip install -r requirements.txt
 
 
 
